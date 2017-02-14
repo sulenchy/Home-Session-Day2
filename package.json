@@ -1,0 +1,26 @@
+{
+  "name": "sulenchy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "commandLineApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulenchy/Home-Session-Day2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sulenchy/Home-Session-Day2/issues"
+  },
+  "homepage": "https://github.com/sulenchy/Home-Session-Day2#readme",
+  "devDependencies": {
+    "node-google-api": "^0.3.0"
+  },
+  "dependencies": {
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^16.1.0"
+  }
+}
